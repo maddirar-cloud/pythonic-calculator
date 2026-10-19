@@ -1,4 +1,4 @@
-# python-calculator
+# python-getting-started updated
 A generic calculator with the four basic operations:
 1. Addition
 2. Subtraction
