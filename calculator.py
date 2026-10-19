@@ -13,7 +13,9 @@ def arithmetic():
     else:
         x = input("what's the first number you want to subtract? ")
         y = input("what's the second number you want to subtract? ")
+        result = x - y
         print(result)
+
 def main():
     arithmetic()
 
