@@ -12,3 +12,6 @@ A generic calculator with the four basic operations:
 *How to Run*
 1. Download both calculator files
 2. Run in you preferred code editor
+
+*Screencase*
+https://www.loom.com/share/c1769dfff7ca48dba8c9c3aca0213a4c
